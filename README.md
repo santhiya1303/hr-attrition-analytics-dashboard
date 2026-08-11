@@ -58,4 +58,4 @@ fast when turnover is high. This project answers not just "what's our attrition 
 
 ## Author
 
-**Santhiya T** — Data Analyst | [LinkedIn](www.linkedin.com/in/santhiya-datanalyst) 
+**Santhiya T** — Data Analyst | [LinkedIn](www.linkedin.com/in/santhiya-datanalyst) | [Portfolio](https://santhiya1303.github.io) 
